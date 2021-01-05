@@ -7,7 +7,7 @@ My personal dotfiles.
 ```
 git clone https://github.com/remcotolsma/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
-script/bootstrap
+./bootstrap.sh
 ```
 
 ## Inspiration
