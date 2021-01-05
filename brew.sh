@@ -160,6 +160,12 @@ brew install zsh
 echo 'Install zsh-autosuggestions';
 brew install zsh-autosuggestions
 
+# Install zsh-completions
+# @link https://formulae.brew.sh/formula/zsh-completions
+# @link https://github.com/zsh-users/zsh-completions
+echo 'Install zsh-completions';
+brew install zsh-completions
+
 # Install Git
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L84
 # @link https://formulae.brew.sh/formula/git
@@ -205,6 +211,12 @@ brew install composer
 # @link https://github.com/squizlabs/PHP_CodeSniffer/
 echo 'Install PHP_CodeSniffer';
 brew install php-code-sniffer
+
+# Install WP-CLI
+# @link https://formulae.brew.sh/formula/wp-cli
+# @link https://wp-cli.org/
+echo 'Install WP-CLI';
+brew install wp-cli
 
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
