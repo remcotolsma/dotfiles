@@ -22,3 +22,4 @@ cd ~/.dotfiles
 - https://github.com/alrra/dotfiles
 - https://github.com/jessfraz/dotfiles
 - https://brew.sh/
+- https://formulae.brew.sh/analytics/install-on-request/365d/
