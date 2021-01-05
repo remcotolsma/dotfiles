@@ -13,7 +13,12 @@ script/bootstrap
 ## Inspiration
 
 - https://github.com/search?q=dotfiles
+- https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
+- https://github.com/mathiasbynens/dotfiles
+- https://github.com/webpro/awesome-dotfiles
 - https://github.com/freekmurze/dotfiles
 - https://github.com/holman/dotfiles
 - https://github.com/ryanb/dotfiles
+- https://github.com/alrra/dotfiles
+- https://github.com/jessfraz/dotfiles
 - https://brew.sh/
