@@ -14,7 +14,7 @@ brew install --cask alfred
 # @link https://formulae.brew.sh/cask/alfred
 # @link https://www.dropbox.com/
 echo 'Install Dropbox'
-brew isntall --cask dropbox
+brew install --cask dropbox
 
 # Install Firefox
 # @link https://formulae.brew.sh/cask/firefox
