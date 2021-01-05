@@ -8,3 +8,5 @@ echo 'Remco Tolsma’s dotfiles bootstrap'
 source brew.sh
 
 source pecl.sh
+
+source brew-cask.sh
