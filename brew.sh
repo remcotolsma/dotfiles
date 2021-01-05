@@ -200,6 +200,12 @@ brew install php
 echo 'Install Composer';
 brew install composer
 
+# Install PHP_CodeSniffer
+# @link https://formulae.brew.sh/formula/php-code-sniffer
+# @link https://github.com/squizlabs/PHP_CodeSniffer/
+echo 'Install PHP_CodeSniffer';
+brew install php-code-sniffer
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
