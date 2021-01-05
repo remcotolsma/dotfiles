@@ -10,6 +10,18 @@ echo 'Remco Tolsma’s Homebrew Cask install'
 echo 'Install Alfred'
 brew install --cask alfred
 
+# Install Sketch
+# @link https://formulae.brew.sh/cask/sketch
+# @link https://www.sketchapp.com/
+echo 'Install Sketch'
+brew install --cask sketch
+
+# Install SketchUp
+# @link https://formulae.brew.sh/cask/sketchup
+# @link https://www.sketchup.com/
+echo 'Install SketchUp'
+brew install --cask sketchup
+
 # Install Dropbox
 # @link https://formulae.brew.sh/cask/alfred
 # @link https://www.dropbox.com/
