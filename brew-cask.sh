@@ -23,10 +23,16 @@ echo 'Install SketchUp'
 brew install --cask sketchup
 
 # Install Dropbox
-# @link https://formulae.brew.sh/cask/alfred
+# @link https://formulae.brew.sh/cask/dropbox
 # @link https://www.dropbox.com/
 echo 'Install Dropbox'
 brew install --cask dropbox
+
+# Install Eclipse
+# @link https://formulae.brew.sh/cask/eclipse-php
+# @link https://www.eclipse.org/
+echo 'Install Eclipse'
+brew install --cask eclipse-php
 
 # Install Firefox
 # @link https://formulae.brew.sh/cask/firefox
@@ -67,7 +73,7 @@ brew install --cask microsoft-teams
 # Install Microsoft Office
 # @link https://formulae.brew.sh/cask/microsoft-office
 # @link https://products.office.com/mac/microsoft-office-for-mac/
-echo 'Install Microsoft Teams'
+echo 'Install Microsoft Office'
 brew install --cask microsoft-office
 
 # Install OpenOffice
@@ -75,6 +81,12 @@ brew install --cask microsoft-office
 # @link https://www.openoffice.org/
 echo 'Install OpenOffice'
 brew install --cask openoffice
+
+# Install PhpStorm
+# @link https://formulae.brew.sh/cask/phpstorm
+# @link https://www.jetbrains.com/phpstorm/
+echo 'Install PhpStorm'
+brew install --cask phpstorm
 
 # Install Poedit
 # @link https://formulae.brew.sh/cask/poedit
