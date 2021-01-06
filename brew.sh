@@ -200,6 +200,24 @@ brew install imagemagick
 echo 'Install PHP'
 brew install php
 
+# Install phpMyAdmin
+# @link https://formulae.brew.sh/formula/phpmyadmin
+# @link https://www.phpmyadmin.net/
+echo 'Install phpMyAdmin'
+brew install phpMyAdmin
+
+# Install PHPUnit
+# @link https://formulae.brew.sh/formula/phpunit
+# @link https://phpunit.de/
+echo 'Install PHPUnit'
+brew install phpunit
+
+# Install PHPStan
+# @link https://formulae.brew.sh/formula/phpstan
+# @link https://github.com/phpstan/phpstan
+echo 'Install PHPStan'
+brew install phpstan
+
 # Install Composer
 # @link https://formulae.brew.sh/formula/composer
 # @link https://getcomposer.org/
