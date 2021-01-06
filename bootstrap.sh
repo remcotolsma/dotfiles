@@ -10,3 +10,5 @@ source brew.sh
 source pecl.sh
 
 source brew-cask.sh
+
+source apps.sh

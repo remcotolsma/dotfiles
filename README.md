@@ -10,6 +10,18 @@ cd ~/.dotfiles
 ./bootstrap.sh
 ```
 
+## Cheatsheet
+
+### Show/Hide Hidden Files
+
+> Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
+
+```
+⌘ + ⇧ + .
+```
+
+https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
+
 ## Inspiration
 
 - https://github.com/search?q=dotfiles
@@ -23,3 +35,4 @@ cd ~/.dotfiles
 - https://github.com/jessfraz/dotfiles
 - https://brew.sh/
 - https://formulae.brew.sh/analytics/install-on-request/365d/
+- https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet
