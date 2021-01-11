@@ -24,8 +24,6 @@ https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
 
 ### Emoji Keyboard
 
-😀
-
 ``` 
 control + command + space
 ```
