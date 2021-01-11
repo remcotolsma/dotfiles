@@ -94,6 +94,12 @@ brew install --cask phpstorm
 echo 'Install Poedit'
 brew install --cask poedit
 
+# Install Skype
+# @link https://formulae.brew.sh/cask/skype
+# @link https://www.skype.com/
+echo 'Install Skype'
+brew install --cask skype
+
 # Install Slack
 # @link https://formulae.brew.sh/cask/slack
 # @link https://slack.com/
