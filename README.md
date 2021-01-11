@@ -20,6 +20,12 @@ cd ~/.dotfiles
 ⌘ + ⇧ + .
 ```
 
+### Emoji Keyboard
+
+``` 
+control + command + space
+```
+
 https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
 
 ## To-Do
