@@ -21,3 +21,7 @@ source $ZSH/oh-my-zsh.sh
 
 source ~/.dotfiles/.aliases
 source ~/.dotfiles/.functions
+
+# Extra paths
+# @link https://github.com/freekmurze/dotfiles/blob/master/shell/.zshrc#L85-L93
+export PATH="/usr/local/sbin:$PATH"
