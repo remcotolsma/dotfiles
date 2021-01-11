@@ -5,6 +5,8 @@
 
 echo 'Remco Tolsma’s dotfiles bootstrap'
 
+ln -s $HOME/.dotfiles/.mackup.cfg $HOME/.mackup.cfg
+
 source brew.sh
 
 source pecl.sh
