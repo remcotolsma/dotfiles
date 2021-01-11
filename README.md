@@ -20,13 +20,15 @@ cd ~/.dotfiles
 ⌘ + ⇧ + .
 ```
 
+https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
+
 ### Emoji Keyboard
 
 ``` 
 control + command + space
 ```
 
-https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
+https://www.howtogeek.com/684025/how-to-type-emoji-on-your-mac-with-a-keyboard-shortcut/
 
 ## To-Do
 
