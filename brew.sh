@@ -236,6 +236,11 @@ brew install php-code-sniffer
 echo 'Install WP-CLI'
 brew install wp-cli
 
+# Install Quick Look plugins
+# @link https://github.com/sindresorhus/quick-look-plugins
+echo 'Install Quick Look plugins'
+brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
