@@ -5,6 +5,12 @@
 echo 'Remco Tolsma’s applications'
 echo
 
+# Install BankTrans
+# @link https://www.banktrans.nl/
+echo 'Manually install BankTrans'
+echo 'https://www.banktrans.nl/'
+echo
+
 # Install FileZilla
 echo 'Manually install FileZilla'
 echo 'https://filezilla-project.org/'
