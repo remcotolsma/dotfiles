@@ -22,6 +22,52 @@ cd ~/.dotfiles
 
 https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks
 
+## To-Do
+
+```
+# Brew PHP
+# export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"
+# export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH"
+
+# WordPress tests
+export WP_TESTS_DIR=~/Projects/wordpress-develop/tests/phpunit
+export WP_TESTS_DB_NAME=
+export WP_TESTS_DB_USER=
+export WP_TESTS_DB_PASS=
+export WP_TESTS_DB_HOST=
+
+# Pronamic Pay
+export WP_PAY_TEST_USER=
+export WP_PAY_TEST_PASSWORD=
+
+# Buckaroo 
+export BUCKAROO_WEBSITE_KEY=
+export BUCKAROO_SECRET_KEY=
+
+# Twinfield
+export TWINFIELD_USER=
+export TWINFIELD_PASSWORD=
+export TWINFIELD_ORGANISATION=
+export TWINFIELD_OFFICE_CODE=
+export TWINFIELD_ARTICLE_CODE=
+export TWINFIELD_CUSTOMER_CODE=
+export TWINFIELD_SALES_INVOICE_NUMBER=
+export TWINFIELD_SALES_INVOICE_TYPE=
+
+# MultiSafepay
+export MULTISAFEPAY_MODE=
+export MULTISAFEPAY_ACCOUNT_ID=
+export MULTISAFEPAY_SITE_ID=
+export MULTISAFEPAY_SECURE_CODE=
+
+# S3
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+
+# Brew
+export HOMEBREW_GITHUB_API_TOKEN=
+```
+
 ## Inspiration
 
 - https://github.com/search?q=dotfiles
