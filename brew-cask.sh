@@ -10,6 +10,12 @@ echo 'Remco Tolsma’s Homebrew Cask install'
 echo 'Install Alfred'
 brew install --cask alfred
 
+# Install Evernote
+# @link https://formulae.brew.sh/cask/evernote
+# @link https://evernote.com/
+echo 'Install Evernote'
+brew install --cask evernote
+
 # Install Sketch
 # @link https://formulae.brew.sh/cask/sketch
 # @link https://www.sketchapp.com/
