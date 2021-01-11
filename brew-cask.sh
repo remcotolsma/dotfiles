@@ -100,6 +100,12 @@ brew install --cask phpstorm
 echo 'Install Poedit'
 brew install --cask poedit
 
+# Install Sequel Pro
+# @link https://formulae.brew.sh/cask/sequel-pro
+# @link https://www.sequelpro.com/
+echo 'Install Sequel Pro'
+brew install --cask sequel-pro
+
 # Install Skype
 # @link https://formulae.brew.sh/cask/skype
 # @link https://www.skype.com/
