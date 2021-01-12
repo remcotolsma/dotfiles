@@ -82,6 +82,12 @@ brew install --cask microsoft-teams
 echo 'Install Microsoft Office'
 brew install --cask microsoft-office
 
+# Install ngrok
+# @link https://formulae.brew.sh/cask/ngrok
+# @link https://ngrok.com/
+echo 'Install ngrok'
+brew install --cask ngrok
+
 # Install OpenOffice
 # @link https://formulae.brew.sh/cask/openoffice
 # @link https://www.openoffice.org/

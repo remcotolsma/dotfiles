@@ -241,6 +241,12 @@ brew install wp-cli
 echo 'Install Quick Look plugins'
 brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
 
+# Install MailHog
+# @link https://formulae.brew.sh/formula/mailhog
+# @link https://github.com/mailhog/MailHog
+echo 'Install MailHog'
+brew install mailhog
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
