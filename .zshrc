@@ -22,6 +22,10 @@ source $ZSH/oh-my-zsh.sh
 source ~/.dotfiles/.aliases
 source ~/.dotfiles/.functions
 
+# Customizations
+# @link https://github.com/freekmurze/dotfiles/blob/master/shell/.zshrc#L52-L54
+[ -r ~/.dotfiles/custom.sh ] && source ~/.dotfiles/custom.sh
+
 # Extra paths
 # @link https://github.com/freekmurze/dotfiles/blob/master/shell/.zshrc#L85-L93
 export PATH="/usr/local/sbin:$PATH"
