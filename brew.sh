@@ -247,6 +247,12 @@ brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspici
 echo 'Install MailHog'
 brew install mailhog
 
+# Install MariaDB
+# @link https://formulae.brew.sh/formula/mariadb
+# @link https://mariadb.org/
+echo 'Install MariaDB'
+brew install mariadb
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
