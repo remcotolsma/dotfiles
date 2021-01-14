@@ -253,6 +253,12 @@ brew install mailhog
 echo 'Install MariaDB'
 brew install mariadb
 
+# Install jq
+# @link https://formulae.brew.sh/formula/jq
+# @link https://stedolan.github.io/jq/
+echo 'Install jq'
+brew install jq
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
