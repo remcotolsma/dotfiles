@@ -259,6 +259,12 @@ brew install mariadb
 echo 'Install jq'
 brew install jq
 
+# Install Subversion
+# @link https://formulae.brew.sh/formula/subversion
+# @link https://subversion.apache.org/
+echo 'Install Subversion'
+brew install svn
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
