@@ -147,3 +147,9 @@ brew install --cask sublime-text
 # @link https://www.virtualbox.org/
 echo 'Install VirtualBox'
 brew install --cask virtualbox
+
+# Install Cyberduck
+# @link https://formulae.brew.sh/cask/cyberduck
+# @link https://cyberduck.io/
+echo 'Install Cyberduck'
+brew install --cask cyberduck
