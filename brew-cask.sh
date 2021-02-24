@@ -10,6 +10,12 @@ echo 'Remco Tolsma’s Homebrew Cask install'
 echo 'Install Alfred'
 brew install --cask alfred
 
+# Install Android File Transfer
+# @link https://formulae.brew.sh/cask/android-file-transfer
+# @link https://www.android.com/filetransfer/
+echo 'Install Android File Transfer'
+brew install --cask android-file-transfer
+
 # Install Evernote
 # @link https://formulae.brew.sh/cask/evernote
 # @link https://evernote.com/
