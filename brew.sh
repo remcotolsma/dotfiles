@@ -265,6 +265,12 @@ brew install jq
 echo 'Install Subversion'
 brew install svn
 
+# Install FFmpeg
+# @link https://formulae.brew.sh/formula/ffmpeg
+# @link https://ffmpeg.org/
+echo 'Install FFmpeg'
+brew install ffmpeg
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
