@@ -159,3 +159,15 @@ brew install --cask virtualbox
 # @link https://cyberduck.io/
 echo 'Install Cyberduck'
 brew install --cask cyberduck
+
+# Install GIMP
+# @link https://formulae.brew.sh/cask/gimp
+# @link https://www.gimp.org/
+echo 'Install GIMP'
+brew install --cask gimp
+
+# Install darktable
+# @link https://formulae.brew.sh/cask/gimp
+# @link https://www.darktable.org/
+echo 'Install darktable'
+brew install --cask darktable
