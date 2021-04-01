@@ -271,6 +271,12 @@ brew install svn
 echo 'Install FFmpeg'
 brew install ffmpeg
 
+# Install Graphviz
+# @link https://formulae.brew.sh/formula/graphviz
+# @link https://www.graphviz.org/
+echo 'Install Graphviz'
+brew install graphviz
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
