@@ -29,3 +29,8 @@ source ~/.dotfiles/.functions
 # Extra paths
 # @link https://github.com/freekmurze/dotfiles/blob/master/shell/.zshrc#L85-L93
 export PATH="/usr/local/sbin:$PATH"
+
+# Homebrew Ruby
+# @link https://www.ruby-lang.org/en/documentation/installation/#homebrew
+# @link https://formulae.brew.sh/formula/ruby
+export PATH="/usr/local/opt/ruby/bin:$PATH"
