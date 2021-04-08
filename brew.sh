@@ -277,6 +277,12 @@ brew install ffmpeg
 echo 'Install Graphviz'
 brew install graphviz
 
+# Install act
+# @link https://formulae.brew.sh/formula/act
+# @link https://github.com/nektos/act
+echo 'Install act'
+brew install act
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup

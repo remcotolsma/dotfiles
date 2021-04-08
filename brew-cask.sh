@@ -171,3 +171,9 @@ brew install --cask gimp
 # @link https://www.darktable.org/
 echo 'Install darktable'
 brew install --cask darktable
+
+# Install Docker Desktop
+# @link https://formulae.brew.sh/cask/docker
+# @link https://www.docker.com/products/docker-desktop
+echo 'Install Docker Desktop'
+brew install --cask docker
