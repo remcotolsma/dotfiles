@@ -177,3 +177,9 @@ brew install --cask darktable
 # @link https://www.docker.com/products/docker-desktop
 echo 'Install Docker Desktop'
 brew install --cask docker
+
+# Install Visual Studio
+# @link https://formulae.brew.sh/cask/visual-studio
+# @link https://visualstudio.microsoft.com/vs/mac/
+echo 'Install Visual Studio'
+brew install --cask visual-studio

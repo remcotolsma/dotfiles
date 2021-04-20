@@ -283,6 +283,11 @@ brew install graphviz
 echo 'Install act'
 brew install act
 
+# Install Python
+# @link https://docs.brew.sh/Homebrew-and-Python
+echo 'Install Python'
+brew install python
+
 # Cleanup
 # @link https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/brew.sh#L101
 brew cleanup
