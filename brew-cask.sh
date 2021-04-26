@@ -183,3 +183,9 @@ brew install --cask docker
 # @link https://visualstudio.microsoft.com/vs/mac/
 echo 'Install Visual Studio'
 brew install --cask visual-studio
+
+# Install Flameshot
+# @link https://formulae.brew.sh/cask/flameshot
+# @link https://flameshot.org/
+echo 'Install Flameshot'
+brew install --cask flameshot
