@@ -14,7 +14,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
 	composer
 	git
-	osx
+	macos
 )
 
 source $ZSH/oh-my-zsh.sh
